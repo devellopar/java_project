@@ -12,7 +12,7 @@ body {
         }
 
 h1 {
-            color: #333;
+            color: #111;
             text-align: center;
         }
 h2 {

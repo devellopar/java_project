@@ -28,7 +28,7 @@ h2 {
 
 <h1> Deployed by jenkins  </h1>
 <h2> Author: vsd </h2>
-
+<p> Maven for build and jenkins to deploy </p>
 
 
 

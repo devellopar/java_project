@@ -8,6 +8,16 @@
 body {
             font-family: Arial, sans-serif;
             background-color: #7da2d4;
+            
+        }
+
+h1 {
+            color: #333;
+            text-align: center;
+        }
+h2 {
+            color: #333;
+            text-align: center;
         }
 
 </style>
